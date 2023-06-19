@@ -1,0 +1,22 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+.Container1{
+    display: flex!important;
+    width: 30%;
+    margin: 20px 0 20px 0;
+    // text-align: center;
+    background-color: rgb(204, 237, 237);
+    flex-direction: column;
+}
+.btn1{
+    margin:10px;
+}
+table {
+    border-spacing: 15px;
+    
+    }
+
+table, tr, td {
+    border: 1px solid rgb(44, 191, 44);
+    padding: 5px;
+    // background-color: chartreuse;
+    }
